@@ -31,7 +31,7 @@
   "emulators": {
     "hosting": {
       "host": "127.0.0.1",
-      "port": "2222"
+      "port": "2223"
     }
   }
 }
