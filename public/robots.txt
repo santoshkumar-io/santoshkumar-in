@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://santoshkumar.io/sitemap.xml
+
